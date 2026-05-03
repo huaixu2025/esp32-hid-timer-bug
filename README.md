@@ -1,6 +1,3 @@
-看到你的仓库了，简洁明了。我这就把英文版 `README.md` 给你，你可以直接复制到仓库根目录。
-
----
 
 # ESP-IDF `esp_timer` and USB HID Host Conflict Reproduction
 
